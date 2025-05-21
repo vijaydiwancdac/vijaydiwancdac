@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there, I'm Vijay Diwan! 👋
 
-<!--
-**vijaydiwancdac/vijaydiwancdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing the **CDAC - DESD (Diploma in Embedded Systems Design)** course and working on improving my skills in **Embedded Systems, RTOS, and Linux Programming**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies:
+- **Languages:** C, Embedded C, Basics of C++
+- **Microcontrollers:** STM32 (ARM Cortex-M4), AVR
+- **Tools:** STM32CubeIDE, Git, Vim, VS Code
+- **Protocols:** UART, SPI, I2C, CAN
+- **OS Concepts:** RTOS (FreeRTOS), Multithreading, Linux IPC (Pipes, Shared Memory)
+- **Debugging:** Serial Monitor
+- **Version Control:** Git & GitHub
+
+---
+
+### 🛠️ Projects (Coming Soon):
+- [ ] STM32 based Sensor Interface with UART logging
+- [ ] RTOS-based Task Scheduler Demo
+- [ ] Linux User-space IPC Application (Producer-Consumer)
+- [ ] CDAC Mini Project Repository
+
+> All source code will be uploaded soon as part of my learning and placement preparation!
+
+---
+
+### 📫 Contact Me:
+- **Email:** vijaydiwancdac@gmail.com
+- **Location:** Pune, India
+- **LinkedIn:** 
+
+---
+
+Thanks for visiting my profile! I’m learning every day and looking forward to building something great.
